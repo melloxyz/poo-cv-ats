@@ -22,7 +22,7 @@ Este sistema foi desenvolvido como projeto acadêmico da disciplina de **Program
 - **🧠 IA Avançada**: Extração inteligente de dados com Google Gemini
 - **📊 Avaliação Automática**: Score de adequação à vaga
 - **🌐 Interface Web**: Sistema completo em Streamlit
-- **� Relatórios Detalhados**: Resultados completos com justificativas
+- **Relatórios Detalhados**: Resultados completos com justificativas
 
 ## 🏗️ Arquitetura (POO)
 
