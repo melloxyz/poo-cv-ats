@@ -7,19 +7,19 @@ Sistema de análise automatizada de currículos utilizando Inteligência Artific
 ## 📱 Interface do Sistema
 
 ### Tela Principal
-![Interface Principal](https://i.imgur.com/SEU_LINK_1.png)
+![Interface Principal](https://imgur.com/a/xpBzCr6)
 *Interface inicial do sistema com área de upload de CV e definição de requisitos da vaga*
 
 ### Análise em Andamento
-![Análise em Progresso](https://i.imgur.com/SEU_LINK_2.png)
+![Análise em Progresso](https://imgur.com/a/R2lmtil)
 *Sistema processando o currículo com feedback visual do progresso*
 
 ### Resultados da Análise
-![Resultados Detalhados](https://i.imgur.com/SEU_LINK_3.png)
+![Resultados Detalhados](https://imgur.com/a/W0MAIwj)
 *Visualização completa dos resultados com score e dados extraídos*
 
 ### Painel de Insights
-![Painel de Insights](https://i.imgur.com/SEU_LINK_4.png)
+![Painel de Insights](https://imgur.com/a/Z6qLaAL)
 *Relatórios detalhados com recomendações e justificativas da IA*
 
 ---
